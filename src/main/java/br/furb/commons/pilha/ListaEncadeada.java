@@ -1,4 +1,4 @@
-package br.furb.commons;
+package br.furb.commons.pilha;
 
 public class ListaEncadeada <T>{
 	

@@ -1,5 +1,7 @@
 package br.furb.commons;
 
+import br.furb.commons.pilha.ListaEstatica;
+
 public class TagFinder {
 
 	private TagFinder() {}

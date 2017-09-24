@@ -1,4 +1,4 @@
-package br.furb.commons;
+package br.furb.commons.pilha;
 @SuppressWarnings("unchecked")
 public class ListaEstatica <ClasseParametrizada>{
 	
