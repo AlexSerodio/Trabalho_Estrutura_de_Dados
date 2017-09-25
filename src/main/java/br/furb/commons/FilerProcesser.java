@@ -11,5 +11,6 @@ public class FilerProcesser {
 
 		for (int i = 0; i < tags.getTamanho(); i++)
 			System.out.println(tags.obterElemento(i));
+		//regex
 	}
 }
