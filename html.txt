@@ -1,8 +1,12 @@
 <html>
 <body>
-<h1 id="titulo">Aqui cabeçalho do arquivo</h1>
-<p>Meu parágrafo da página web</p>
+<body>
+<body>
+<h1 id="titulo">Aqui cabeï¿½alho do arquivo</h1>
+<p>Meu parï¿½grafo da pï¿½gina web</p>
 <p>Meu segundo
-parágrafo.</p>
+parï¿½grafo.</p>
+</body>
+</body>
 </body>
 </html>

@@ -1,4 +1,4 @@
-package br.furb.commons;
+package br.furb.commons.strings;
 
 import java.io.File;
 import java.io.IOException;

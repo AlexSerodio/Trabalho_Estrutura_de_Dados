@@ -1,4 +1,4 @@
-package br.furb.commons;
+package br.furb.commons.strings;
 
 import br.furb.commons.pilha.ListaEstatica;
 
@@ -7,7 +7,7 @@ public class TagFinder {
 	private TagFinder() {}
 
 	public static ListaEstatica<String> separaTags(char[] conteudo) {
-		ListaEstatica<String> tags = new ListaEstatica<String>();
+		ListaEstatica<String> tags = new ListaEstatica<>();
 		for (int i = 1; i < conteudo.length; i++) {
 			if (conteudo[i - 1] == '<') {
 				String tag = "";
