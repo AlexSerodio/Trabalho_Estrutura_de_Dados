@@ -1,0 +1,13 @@
+* Não deve funcionar: <html>
+* Não deve funcionar: <html><p></div>
+* Não deve funcionar: <html><p><div>
+* Não deve funcionar: </html>
+* Não deve funcionar: </html></p>
+* Não deve funcionar: <html><p></html>
+* Não deve funcionar: <!DOCTYPE><html>
+* Não deve funcionar: <p><hr><hr><hr>
+* Não deve funcionar: <html><html>
+* Deve funcionar: <html><hr><hr><hr></html>
+* Deve funcionar: <html></html>
+* Deve funcionar: <html><p></p></html>
+* Deve funcionar: <!doctype><hr><meta>

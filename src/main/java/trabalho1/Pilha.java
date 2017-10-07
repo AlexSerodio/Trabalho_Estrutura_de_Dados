@@ -1,4 +1,4 @@
-package br.furb.commons.pilha;
+package trabalho1;
 
 public interface Pilha<T> {
 	

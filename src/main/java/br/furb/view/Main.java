@@ -3,9 +3,9 @@ package br.furb.view;
 import java.io.File;
 import java.io.IOException;
 
-import br.furb.commons.exception.TagOrderException;
-import br.furb.commons.exception.TagUnclosedException;
-import br.furb.controller.ValidadorHtmlFacade;
+import trabalho1.TagOrderException;
+import trabalho1.TagUnclosedException;
+import trabalho1.ValidadorHtmlFacade;
 
 public class Main {
 
@@ -13,7 +13,7 @@ public class Main {
 		ValidadorHtmlFacade valida = new ValidadorHtmlFacade();
 		File arquivo = new File("html.txt");
 		try {
-			valida.facede(arquivo);
+			valida.processarArquivo(arquivo);
 		} catch (IOException e) {
 			e.printStackTrace();
 		}

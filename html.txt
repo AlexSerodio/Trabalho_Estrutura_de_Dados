@@ -1,12 +1,1 @@
-<html>
-<body>
-<body>
-<body>
-<h1 id="titulo">Aqui cabe�alho do arquivo</h1>
-<p>Meu par�grafo da p�gina web</p>
-<p>Meu segundo
-par�grafo.</p>
-</body>
-</body>
-</body>
-</html>
+<!DOCTYPE><hr><meta>
